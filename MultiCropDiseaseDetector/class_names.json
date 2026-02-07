@@ -1,0 +1,21 @@
+{
+    "class_names": [
+    "banana_cordana",
+    "banana_healthy",
+    "banana_pestalotiopsis",
+    "banana_sigatoka",
+    "rice_Bacterial Leaf Blight",
+    "rice_Brown Spot",
+    "rice_Healthy Rice Leaf",
+    "rice_Leaf Blast",
+    "rice_Leaf scald",
+    "rice_Narrow Brown Leaf Spot",
+    "rice_Rice Hispa",
+    "rice_Sheath Blight",
+    "coconut_Bud Root Dropping",
+    "coconut_Bud Rot",
+    "coconut_Gray Leaf Spot",
+    "coconut_Leaf Rot",
+    "coconut_Stem Bleeding"
+  ]
+}
